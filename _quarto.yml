@@ -1,3 +1,22 @@
 project: 
   type: website
   output-dir: docs
+
+format:
+  html:
+    theme: minty
+    number-sections: false
+    include-in-header:
+      - text: |
+          <link rel="preconnect" href="https://fonts.googleapis.com">
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+          <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap" rel="stylesheet">
+    monofont: Fira Code
+    code-fold: show
+    code-link: true
+    code-overflow: wrap
+    downloads: [docx, epub]
+    embed-resources: true
+#   sharing: [twitter, facebook]
+# pdf:quarto
+#   documentclass: scrreprt
