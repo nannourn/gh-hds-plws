@@ -71,7 +71,7 @@ In collaboration with the Cambodian Ministory of Environment (MoE), Conservation
 
 ## Great Hornbills
 
-Hornbills are large forest birds classified in the order of Bucerotiformes [@corlett2017geaca] consisting of 15 genera, 62 species; with 32 species inhabiting Asia and 25 species in Africa [@poonswad2013cb]. Prominent characteristics are an oversized, long curved bill with a casque on top. Hornbills are known as the most important single family of seed dispersal agents for large-woody species in the forest canopy @corlett2017geaca.
+Hornbills are large forest birds classified in the order of Bucerotiformes [@corlett2017geaca] consisting of 15 genera, 62 species; with 32 species inhabiting Asia and 25 species in Africa [@poonswad2013cb]. Prominent characteristics are an oversized, long curved bill with a casque on top. Hornbills are known as the most important single family of seed dispersal agents for large-woody species in the forest canopy [@corlett2017geaca].
 
 Greater hornbill (GH) *Buceros bicornis* can be found in Cambodia occurring through their natural habitat of dense tropical evergreen forest.
 
