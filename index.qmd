@@ -20,8 +20,8 @@ format:
     code-fold: show
     code-link: true
     code-overflow: wrap
-    downloads: [docx, epub, pdf]
-    sharing: [twitter, facebook]
+    downloads: [docx, epub]
+#    sharing: [twitter, facebook]
 #  pdf:quarto
 #    documentclass: scrreprt
 editor: visual
