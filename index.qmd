@@ -2,29 +2,12 @@
 title: "Hierarchical Distance Sampling to Estimate Animal Abundance in Prey Lang Wildlife Sanctuary"
 author: "Nan Nourn"
 date: "September 19 2024"
-  
 bibliography: plws-ref.bib
 csl: global-ecology-and-conservation.csl
-  
 toc: true
 toc-depth: 3
-  
 comments:
   hypothesis: true
-
-#format:
-#  html:
-#    theme: minty
-#    number-sections: false
-#    monofont: Fira Code
-#    code-fold: show
-#    code-link: true
-#    code-overflow: wrap
-#    downloads: [docx, epub]
-#    embed-resources: true
-#   sharing: [twitter, facebook]
-# pdf:quarto
-#   documentclass: scrreprt
 editor: visual
 ---
 # Packages
